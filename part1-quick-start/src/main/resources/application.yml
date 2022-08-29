@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: quick-start-jpa
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jpa?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&autoReconnect=true
+    username: root
+    password: root
+  jpa:
+    show-sql: true  # 打印 SQL
+    hibernate:
+      ddl-auto: none  # 应用启动时不对数据表结构做任何更改

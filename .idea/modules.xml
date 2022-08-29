@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/part1-quick-start/part1-quick-start.iml" filepath="$PROJECT_DIR$/part1-quick-start/part1-quick-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jpa-demo.iml" filepath="$PROJECT_DIR$/spring-data-jpa-demo.iml" />
+    </modules>
+  </component>
+</project>
